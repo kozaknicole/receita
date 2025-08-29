@@ -1,9 +1,13 @@
 body {
-background-color: rgba(219, 202, 176, 0.575);
- font-family: "Lexend", sans-serif;
+    background-color: rgba(219, 202, 176, 0.575);
+    font-family: "Lexend", sans-serif;
 }
 
-h2{
+h1 {
+    text-align: center;
+}
+
+h2 {
     color: rgba(0, 0, 0, 0.781);
 }
 
@@ -12,6 +16,6 @@ h3 {
 }
 
 li {
-    color:rgba(0, 0, 0, 0.781);
-} 
+    color: rgba(0, 0, 0, 0.781);
+}
 }
